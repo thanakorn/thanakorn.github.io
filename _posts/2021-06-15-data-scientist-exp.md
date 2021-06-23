@@ -3,7 +3,8 @@ layout: post
 title: 6 Months as a Data Scientist, What've I learned.
 featured: true
 image: assets/images/scott-graham-5fNmWej4tAA-unsplash.jpeg
-author: sal
+author: thanakorn
+categories: [ data science ]
 ---
 
 ***Data Scientist*** is considered to be a luxurious job these days. With the huge amount of data available nowadays, building business advantages from these data is indispensable for any organization that wants to be successful. TData scientist seems to be a very technical role as people in this profession require to have a good grasp of mathematics, statistics, and computer science. However, what I found from my experience is soft skills play a crucial role in this position too. Unlike in the academic world where you can do most of the things yourself or only talk with those with a similar background, this working approach is not suitable in the industry where your work is only a part of a much bigger system. Good data scientists need to be very skilled at explaining complicated concepts to ordinary people so they know what to expect and how data science is going to fit in the solution.his makes companies, both big and small ones, start building their data scientist team.

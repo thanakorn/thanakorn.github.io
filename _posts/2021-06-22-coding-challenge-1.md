@@ -3,7 +3,8 @@ layout: post
 title: Programming Challenge 1 - Longest Substring Palindrome
 featured: true
 image: assets/images/fatos-bytyqi-Agx5_TLsIf4-unsplash.jpeg
-author: sal
+author: thanakorn
+categories: [ programming ]
 ---
 
 ## Problem Statement
