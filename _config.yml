@@ -1,7 +1,7 @@
 # Site
-name: ""
+name: "Hello Everyone"
 title: ""
-description: ""
+description: "My name is Thanakorn Panyapiang.<br>I'm a data scientist who passionate about Artificial Intelligence, Software Development, and Football."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
