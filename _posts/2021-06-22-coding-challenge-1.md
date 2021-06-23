@@ -2,7 +2,7 @@
 layout: post
 title: Programming Challenge 1<br>Longest Substring Palindrome
 featured: true
-image: assets/images/fatos-bytyqi-Agx5_TLsIf4-unsplash.jpeg
+image: assets/images/coding-challenge.jpeg
 author: thanakorn
 categories: [ programming ]
 ---
