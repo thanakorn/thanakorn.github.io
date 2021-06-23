@@ -3,7 +3,6 @@ layout: post
 title: 6 Months as a Data Scientist, What've I learned.
 featured: true
 image: assets/images/scott-graham-5fNmWej4tAA-unsplash.jpeg
-description: "Description"
 author: sal
 ---
 
