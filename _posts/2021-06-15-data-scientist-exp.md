@@ -33,7 +33,7 @@ Therefore, the first thing data scientists get to deal with is not the data as i
 
 # Lesson 3: It's not a solo work.
 
-Using data to solve real-world problems is totally different from doing academic research for two crucial reasons. First, academic research is usually conducted using publicly available data while data in the real world is acquired by complex data pipelines. Second, academic works produce models and the theories supporting their results but, when you work in the industry, companies want workable software or service that their customers can use. These data pipelines and services are usually built by other teams which means the data scientist team cannot deliver the product by itself.
+Using data to solve real-world problems is totally different from doing academic research for two crucial reasons. First, academic research is usually conducted using publicly available data while data in the real world is acquired by complex data pipelines. Second, academic works produce models and the theories supporting their results but, when you work in the industry, companies want workable software or service that their customers can use. These data pipelines, products, and services are usually built by other teams which means the data scientist team cannot deliver the product by itself.
 
 The key to working in such an environment is to broaden your knowledge so you can understand the work of other teams better.  Learning concepts in software and data engineering as well as familiarize yourself with the company's tech stack outside of your team, even the basic ones, will make communication and collaboration between the data scientist team and others smooth and productive, which is necessary for delivering great products.
 
